@@ -19,4 +19,16 @@ def forstatement () :
 
 			words.insert(0, items)
 	print (words)
-forstatement()
+#forstatement()
+
+def formultiplelist () :
+
+	words1 = ['cat' , 'dog' , 'windows' , 'prabinbernard']
+	words2 = ['voda' , 'konda' , 'win' , 'bernard']
+
+	for items1,items2 in zip(words1,words2) :
+
+		print (items1,items2)
+
+
+formultiplelist()
