@@ -2,3 +2,4 @@
 #A string is a sequence of charachters
 print ("Hello")
 print ("World")
+print ("new")
