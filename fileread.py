@@ -11,3 +11,4 @@ for items in cleanlist :
 # the same can be achieved by creating a clean list on the fly using list comprehension
 
 content=[i.rstrip() for i in content]
+#hello
