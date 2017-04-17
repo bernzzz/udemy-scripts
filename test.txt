@@ -1,0 +1,8 @@
+char
+van
+keys
+idea
+log
+master
+event
+can
